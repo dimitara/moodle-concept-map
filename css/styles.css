@@ -1,0 +1,34 @@
+*{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.main{
+    width:100%;
+}
+
+.top-bar{
+    width:100%;
+    height:30px;
+    display:block;
+    vertical-align: top;
+}
+
+.top-bar ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+.canvas{
+    width:100%;
+    height:100%;
+    margin-top:2px;
+}
+
+#canvas{
+    display:block;
+    width:100%;
+    height:100%;
+}

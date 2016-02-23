@@ -1,3 +1,4 @@
+<?php
 $capabilities = array(
  
     'mod/conceptmap:addinstance' => array(

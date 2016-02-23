@@ -1,3 +1,5 @@
+<?php
+
 function xmldb_conceptmap_upgrade($oldversion=0) {
     if ($oldversion < 20151231) {
         // Add new fields to certificate table.
